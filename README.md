@@ -1,0 +1,1 @@
+This book is used for drone journalism licensing classes at the University of Nebraska-Lincoln. It is intended as a companion to the Pilot Handbook of Aeronautical Knowledge and classroom instruction. It is free to use, but if you do so, drop me a line at matt dot waite at unl dot edu and let me know. 
