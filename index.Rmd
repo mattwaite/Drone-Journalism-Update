@@ -4,15 +4,18 @@ author: "Matt Waite"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: http://mattwaite.github.io/dronebook/
 cover-image: images/cover.jpg
 description: |
   What you need to know to get a US drone license and what separates a journalist from just someone with a controller in their hand.
 biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
+# Getting started
 
-# Getting Started
+```{r, echo=FALSE, out.width = "100%"}
+knitr::include_graphics(rep("images/cover.jpg"))
+```
 
 In their simplest form, drones are cameras that fly. And they come with all the problems that both a camera and a flying object involve. The problems with cameras -- the ethical issues and the privacy issues -- are ones that are well worn. We've been talking about them since at least the Civil War. The flying parts are newer -- since 1903 -- but never before has a flying camera become more accessible.
 
