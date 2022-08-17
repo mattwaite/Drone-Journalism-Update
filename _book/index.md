@@ -67,7 +67,7 @@ More information about the test:
 * You will not be allowed to take anything into the test other than a calculator with no memory functions.
 * You will not be allowed to take your cell phone with you.
 * You must bring ID to the test.
-* The test will cost $150 to take.
+* The test will cost $175 to take.
 * You can take the test again if you fail, but you will have to wait 14 days.
 * A passing score is 70 percent.
 
